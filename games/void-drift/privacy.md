@@ -131,9 +131,9 @@ Under the GDPR, you have the following rights:
 *   Right to Withdraw Consent: Where processing is based on your consent, you can withdraw it at any time. Withdrawal is as simple as toggling preferences in the Application's settings or contacting the Data Controller.
 *   Rights Regarding Automated Decision-Making: You have rights related to automated decisions that affect you.
 
-If you believe your data protection rights have been violated, you have the right to lodge a complaint with your local Data Protection Authority. Contact details for each country's Data Protection Authority can be found at:[https://edpb.ec.europa.eu/about-edpb/members_en](https://edpb.ec.europa.eu/about-edpb/members_en)
+If you believe your data protection rights have been violated, you have the right to lodge a complaint with your local Data Protection Authority. Contact details for each country's Data Protection Authority can be found at [https://edpb.ec.europa.eu/about-edpb/members_en](https://edpb.ec.europa.eu/about-edpb/members_en)
 
-If you are located in the United Kingdom, you may contact the Information Commissioner's Office at[https://ico.org.uk](https://ico.org.uk)
+If you are located in the United Kingdom, you may contact the Information Commissioner's Office at [https://ico.org.uk](https://ico.org.uk)
 
 **What are your California privacy rights (CCPA/CPRA)?**
 
