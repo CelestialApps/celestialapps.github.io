@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy - NickGeneration
----
-
 # Privacy Policy
 
 **Effective Date:** November 5, 2026
