@@ -51,7 +51,7 @@ Cookbook offers an optional, one-time digital purchase to permanently remove ban
 
 For more details on how Google processes payment transactions, please review:
 * **Google Play Terms of Service:** [https://play.google.com/about/play-terms/](https://play.google.com/about/play-terms/)
-* **Google Payments Privacy Notice:** [https://payments.google.com/legaldocument?family=privacy_notice](https://payments.google.com/legaldocument?family=privacy_notice)
+* **Google Privacy Policy:** [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 <hr>
 
