@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy - Cookbook
----
-
 # Privacy Policy
 
 **Effective Date:** November 10, 2026
