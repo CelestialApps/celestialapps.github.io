@@ -1,7 +1,6 @@
 # Privacy Policy
 
 **Effective Date:** November 14, 2026
-**Policy version:** 1.0
 
 This privacy policy applies to the mobile game **Nebula Vanguard** (Package Name: `com.celestialapps.nebulavanguard`), developed and published by **CelestialApps** ("we", "us", or "Service Provider").
 
