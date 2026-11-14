@@ -1,8 +1,9 @@
 # Privacy Policy
 
 **Effective Date:** November 14, 2026
+**Policy version:** 1.0
 
-This privacy policy applies to the mobile game **Nebula Vanguard** (Package Name: `com.nebulavanguard.game`), developed and published by **CelestialApps** ("we", "us", or "Service Provider").
+This privacy policy applies to the mobile game **Nebula Vanguard** (Package Name: `com.celestialapps.nebulavanguard`), developed and published by **CelestialApps** ("we", "us", or "Service Provider").
 
 ---
 
@@ -152,4 +153,3 @@ For any questions, requests, or concerns regarding this policy, please reach out
 * **Email:** [celestialappstutanota@gmail.com](mailto:celestialappstutanota@gmail.com)
 * **Address:** Universytetskyi Avenue, Kryvyi Rih, 50086, Ukraine
 * **Official Website:** [https://celestialapps.github.io](https://celestialapps.github.io)
-
