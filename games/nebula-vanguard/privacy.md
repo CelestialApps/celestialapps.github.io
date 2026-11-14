@@ -140,7 +140,7 @@ Where the GDPR applies, we rely on the following legal bases:
 
 ## 10. Changes to This Policy
 
-We may revise this Privacy Policy periodically to reflect updates in game features or legal regulations. The latest version will always be published at this page with an updated effective date and policy version. Material changes will be reflected in the Application's store listing. Continued use of the Application after changes take effect constitutes acceptance of the revised policy.
+We may revise this Privacy Policy periodically to reflect updates in game features or legal regulations. The latest version will always be published at this page with an updated effective date. Material changes will be reflected in the Application's store listing. Continued use of the Application after changes take effect constitutes acceptance of the revised policy.
 
 ---
 
