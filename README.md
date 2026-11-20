@@ -3,7 +3,7 @@
 Welcome to the official developer portal and repository of **CelestialApps**. We design, engineer, and publish mobile applications, interactive digital guides, and arcade games for the Android ecosystem.
 
 🔗 **Official Google Play Developer Page:**  
-[Google Play Store — CelestialApps](https://play.google.com/store/apps/dev?id=7923890175771483507)
+[Google Play Store — CelestialApps](https://play.google.com/store/apps/developer?id=%D0%A1elestialApps)
 
 ---
 
@@ -35,7 +35,7 @@ Welcome to the official developer portal and repository of **CelestialApps**. We
 
 ### 🗡️ CHRONO-SLASH: Shadow Blade
 * **Package:** `com.celestialapps.chronoslash`
-* **Category:** Action / Arcade
+* **Category:** Action / Reflex
 * **Overview:** High-octane shadow reflex game featuring precision time-slicing mechanics, atmospheric dark fantasy aesthetics, and escalating boss encounters.
 * 📲 [View on Google Play](https://play.google.com/store/apps/details?id=com.celestialapps.chronoslash) | 📄 [Privacy Policy](games/chrono-slash/privacy.md)
 
@@ -76,6 +76,6 @@ Welcome to the official developer portal and repository of **CelestialApps**. We
 ## 📬 Contact & Inquiries
 * **Developer:** Sergey Lomachenko
 * **Studio Brand:** CelestialApps
-* **Email:** [celestial-apps@outlook.com](mailto:celestial-apps@outlook.com)
+* **Email:** [celestialappstutanota@gmail.com](mailto:celestialappstutanota@gmail.com)
 * **GitHub:** [@CelestialApps](https://github.com/CelestialApps)
-* **Google Play:** [Developer Console ID: 7923890175771483507](https://play.google.com/store/apps/dev?id=7923890175771483507)
+* **Google Play:** [Google Play Store — CelestialApps](https://play.google.com/store/apps/developer?id=%D0%A1elestialApps)
